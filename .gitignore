@@ -31,3 +31,9 @@ Carthage
 # `pod install` in .travis.yml
 #
 # Pods/
+#xcshareddata
+/.swiftlint.yml
+/JTAppleCalendar.xcworkspace/xcshareddata/JTAppleCalendar.xcscmblueprint
+/JTAppleCalendar.xcworkspace/xcshareddata
+/.swift-version
+/Index
